@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fieldbooks
-bigimg: /img/14934283002_9663bae608_k-banner.jpg
+title: Reflective Posts
+bigimg: /img/11843977294_e310b3c6b6_b.jpg
 ---
 
 ## Assignment Overview:

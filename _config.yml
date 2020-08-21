@@ -29,9 +29,9 @@ navbar-links:
   Assignments: 
     - Overview and Grading: "assignments"
     - Discussion Prep: "assignments/discussion-prep"
-    - Book Labs: "/assignments/book-labs"
+    - Book Labs: "assignments/book-labs"
     - Reflective Posts: "assignments/reflective-posts"
-    - Semester Book Project: "assignments/book-project/"
+    - Semester Book Project: "assignments/book-project"
   News: "news"
 
 
