@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reflective Posts
-bigimg: /img/11843977294_e310b3c6b6_b.jpg
+bigimg: /img/dcbrock_2017-Dec-13-banner.jpg
 ---
 
 ## Assignment Overview:
