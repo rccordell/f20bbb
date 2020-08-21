@@ -28,8 +28,9 @@ navbar-links:
   Schedule: "schedule"
   Assignments: 
     - Overview and Grading: "assignments"
-    - Fieldbook: "assignments/fieldbook"
-    - Book Report: "assignments/book-report/"
+    - Discussion Prep: "assignments/discussion-prep"
+    - Book Labs: "/assignments/book-labs"
+    - Reflective Posts: "assignments/reflective-posts"
     - Semester Book Project: "assignments/book-project/"
   News: "news"
 

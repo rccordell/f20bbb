@@ -8,9 +8,10 @@ bigimg: /img/France_in_XXI_Century._School.jpg
 
 Your work in "Building a (Better) Book" will happen across these major assignments:
 
-+ [Fieldbook](/assignments/fieldbook/)
-+ [Book Report](/assignments/book-report/)
-+ [Semester Book Project](/assignments/book-project)
++ [Discussion Prep](/assignments/discussion-prep/)
++ [Book Labs](/assignments/book-labs/)
++ [Reflective Posts](/assignments/reflective-posts/)
++ [Semester Book Project](/assignments/book-project/)
     + Proposal
     + Prototype
     + Book
@@ -18,13 +19,17 @@ Your work in "Building a (Better) Book" will happen across these major assignmen
 
 # Grade Contracts
 
-In this course, you will determine the grade you receive by fulfilling a contract you will submit for my approval on **Friday, September 13th**. 
+In this course, you will determine the grade you receive by fulfilling a contract you will submit for my approval on **Thursday, September 17th**. 
 
-Your written contract will detail: 
+In brief, your written contract should detail: 
 
-1. the requirements you will meet in order to receive the grade for which you've contracted, 
-2. the penalties you will incur for not meeting those requirements,
-3. a calendar you will follow for meeting the requirements you have outlined. Many aspects of this calendar will be determined by windows outlined on the [course schedule](/schedule/), but your contract will take ownership of these deadlines while committing to specific due dates for the course's more flexible assignments. 
+1. A formal declaration of the grade you intend to earn: e.g. "During the Fall 2020 semester I, NAME HERE, contract to earn an A in 'Building a (Better) Book'";
+2. The requirements you will meet in order to receive the grade for which you've contracted;  
+3. Due dates for the major milestones of your final book project;
+4. The penalties you will incur for not meeting deadlines or not completing sufficient work for a given assignment; 
+5. And finally two spaces for signatures, yours and mine. 
+
+The contract will be complete when you submit your final self-assessment by December 16.
 
 ## Why Contract Grading?
 
@@ -34,46 +39,50 @@ As you no doubt know, grading can be a contentious issue in college courses, par
 
 ## Contract Details
 
+### All Contracts
+
 To fulfill **any** grade contract a student must do the following, which should nonetheless be specified in the contract submitted for approval. When writing self assessments students must describe how they have met these requirements in addition to the grade-specific requirements:
 
-1. Come to class prepared to discuss any assigned readings, videos, or other media. Participate actively in class activities and discussions, making observations and asking questions that help the class think together.
-2. Come to studio sections prepared to work toward your final projects and willing to constructively engage with your colleagues, either by respectfully commenting on their work or being open to their comments on yours.
-3. Meet with me in person—during office hours or another scheduled time—at least once around midterm—roughly between weeks 5-8—to ensure you are on-track to meet your contract requirements, discuss any questions or concerns you have about the course or your progress, and decide on any necessary contract amendments.
-4. Revise contractual assignments as necessary until both you and I consider them "Satisfactory."
-5. Complete a final self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Cordell by 5pm on Monday, December 9.
+1. Come to synchronous classes prepared to discuss any assigned readings, videos, or other media. Participate actively in class activities and discussions, making observations and asking questions that help the class think together.
+2. Use studio sections to work toward your final projects. Join group studio check-ins (with 2-3 colleagues) weekly and check in with Prof. Cordell at least once every two weeks.
+3. Revise contractual assignments as necessary until both you and I consider them "Satisfactory."
+4. Complete a final self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Cordell by 5pm on Wednesday, December 16.
 
 ### "A" Contract
 
-To contract for an "A" in this course, you agree to:
- 
-1. Miss no more than two classes.
-2. Take no more than one information overload day during the semester. 
-3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
-4. Earn “Satisfactory” on all class preparation fieldbook entries save one.
-5. Write at least eight "Satisfactory" reflective fieldbook entries over the course of the semester. 
-6. Complete an exemplary book project, meeting all specified deadlines, and presenting your project in the final week of the semester.
+In addition to the items in "All Contracts" above, to contract for an "A" in this course you agree to:
+
+5. Miss no more than one synchronous class.
+6. Take no more than one information overload day during the semester.
+7. Complete all book lab activities.
+8. Exceed expectations regarding in-class device according to the policies outlined in the device use rubric.
+9. Earn “Satisfactory” on all class preparation posts save one.
+10. Write at least six "Satisfactory" reflective posts during the semester.
+11. Complete an exemplary book project, meeting all specified deadlines, and presenting your project in the final week of the semester.
 
 ### "B" Contract
 
-To contract for an "B" in this course, you agree to:
+In addition to the items in "All Contracts" above,  to contract for an "B" in this course you agree to:
 
-1. Miss no more than three classes.
-2. Take no more than one information overload day during the semester. 
-3. Fully meet expectations expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
-4. Earn “Satisfactory” on all class preparation fieldbook entries save two.
-5. Write at least seven "Satisfactory" reflective fieldbook entries over the course of the semester. 
-6. Complete a satisfactory book project, meeting all specified deadlines, and presenting your project in the final week of the semester.
+5. Miss no more than two synchronous classes.
+6. Take no more than one information overload day during the semester.
+7. Complete all book lab activities save one.
+8. Fully meet expectations expectations regarding in-class device according to the policies outlined in the device use rubric.
+9. Earn “Satisfactory” on all class preparation posts save two.
+10. Write at least five "Satisfactory" reflective posts over the course of the semester.
+11. Complete a satisfactory book project, meeting all specified deadlines, and presenting your project in the final week of the semester.
 
 ### "C" Contract
 
-To contract for an "C" in this course, you agree to:
+In addition to the items in "All Contracts" above, to contract for an "C" in this course, you agree to:
 
-1. Miss no more than four classes.
-2. Take no more than two information overload day during the semester. 
-3. Generally meet expectation regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
-4. Earn “Satisfactory” on all class preparation fieldbook entries save three.
-5. Write at least six "Satisfactory" reflective fieldbook entries over the course of the semester. 
-6. Complete a satisfactory book project, meeting all specified deadlines, by the end of the semester.
+5. Miss no more than three synchronous classes.
+6. Take no more than two information overload days during the semester.
+7. Complete all book lab activities save two.
+8. Generally meet expectation regarding in-class device according to the policies outlined in the device use rubric.
+9. Earn “Satisfactory” on all class preparation posts save three.
+10. Write at least four "Satisfactory" reflective posts over the course of the semester.
+11. Complete a satisfactory book project, meeting all specified deadlines, by the end of the semester
 
 ### "D" and "F" Grades
 
