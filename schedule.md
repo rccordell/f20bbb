@@ -72,7 +72,7 @@ Book Lab 1: Virtual visit, Northeastern University Archives and Special Collecti
 Prep: 
 
 + Amaranth Borsuk, "The Book as Content" and "The Book as Object" from *The Book* (2018)
-
++ (Watch) Allie Alvis, ["Volvelles: Movable Book Machines!"](https://www.youtube.com/watch?v=cdgFxuw5I8M) (2020)
 
 ### Friday, September 11 (R,A)
 
@@ -90,7 +90,7 @@ Prep:
 	+ *Note: This video is about 1 hour long; plan accordingly!*
 + Ellen Lupton, "Letter" and "Text" from [*Thinking With Type*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9502618350001401?auth=SAML) (2010)
 + Lindsay Lynch, ["How I Came to Love the En Space"](http://www.theatlantic.com/technology/archive/2016/09/how-i-came-to-love-the-en-space/499337/) (2016)
-+ (watch) Book Historia, ["Myth Busting Metal Type"](https://www.youtube.com/watch?v=oBZF4dpnCLI) (2020)
++ (watch) Allie Alvis, ["Myth Busting Metal Type"](https://www.youtube.com/watch?v=oBZF4dpnCLI) (2020)
 
 ### Friday, September 25 (I,A)
 
@@ -166,6 +166,8 @@ Prep:
 + Charles W. Chesnutt, "Baxter's Procustes" (1904)
 + Merve Emre, "This Library Has New Books by Major Authors, but They Can’t Be Read Until 2114" (2018)
 + Élika Ortega, ["The Many Books of the Future: Print-digital Literatures"](http://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/) (2020)
++ (Watch) Allie Alvis, ["The Cutest Books! Miniature Books"](https://www.youtube.com/watch?v=gyJVWxZWJvM&t=360s) and ["Book Secrets! Fore-Edge Paintings"](https://www.youtube.com/watch?v=RUbAlfNqySU)
+
 
 ### Friday, October 23 (I,S)
 
