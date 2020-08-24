@@ -214,6 +214,8 @@ Studio groups
 
 No class: Veterans' Day
 
+### Thursday, November 12, Prototype DUE
+
 ### Friday, November 13 (I/R,A)
 
 Studio groups 
