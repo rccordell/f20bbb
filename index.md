@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Building a (Better) Book"
-subtitle: An honors seminar at Northeastern University, Fall 2019
+subtitle: An honors seminar at Northeastern University, Fall 2020
 bigimg: /img/5713183928_a6b06c65e6_o.jpg
 ---
 
