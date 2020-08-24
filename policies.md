@@ -20,6 +20,17 @@ Really, all I _want_ to write here can be found in Sonya Huber's [Shadow Syllabu
 
 -----
 
+## Course Supplies
+
+All readings will be freely available online or through the University Library's Leganto course packet software (available in the left-hand sidebar of Canvas). 
+
+You will need to order supplies for some of our book labs, however, either to complete activities remotely or to bring to our socially-distant in-person labs. These are:
+
++ [Zine kit](colophonbookarts.com/instructors-students/cordell-zine)
++ [Book binding kit](https://www.colophonbookarts.com/instructors-students/cordell-class-kit)
+
+-----
+
 ## Communication
 
 The best way to get in touch with me is to drop by (virtually) during student hours, or to schedule a check-in. If you’re unsure about our readings, struggling with an assignment, or just want to talk, please schedule a call. Just [email me](mailto:r.cordell@northeastern.edu) with **at least three possible meeting times** for me to choose among.
@@ -30,7 +41,7 @@ The best way to get in touch with me is to drop by (virtually) during student ho
 
 This studio course requires active engagement in class activities, discussions, and studio sessions. There will be no Powerpoint lectures and we will not be building toward an exam. Instead, we will work together to build our facilities for thinking critically about media and to conceive, plan, and create innovative final projects. You should come to every synchronous class having read all of the required reading, watched the required videos, browsed the suggested resources, and so forth. You should enter our videochat prepared to discuss these materials with colleagues and complete both individual and group in-class assignments. During our asynchronous days, you should watch any provided materials and complete any assigned activities in a timely manner.
 
-## Participation
+### Participation
 
 I will not explicitly grade participation in this course (i.e. “participation = 20% of final grade”), but I will take account of your reading and course engagement through your class preparation, our discussions, and related activities. As a reminder, all of our class grading contracts require you to:
 
@@ -44,7 +55,7 @@ There are many ways to participate in a college class. Just a few of the most va
 4.  Assisting classmates with lab assignments or other in-class work amenable to cooperation;
 5.  Dropping into student hours to extend course conversations around subjects or questions you find particularly interesting.
 
-## Attendance
+### Attendance
 
 Maintaining an active class conversation requires that the class be present, both physically and mentally. “Attendance” does not simply mean that your likeness appears in the Zoom gallery (and in fact I do not require you to keep your cameras on). It's most important that you are are mentally present, which means you must:
 
@@ -55,13 +66,13 @@ Maintaining an active class conversation requires that the class be present, bot
 
 If you fail to meet these requirements, I will consider you mentally absent, though you may be physically present.
 
-### Missing Class
+#### Missing Class
 
 You may miss the number of classes specified in your chosen grade contract and you need not provide an explanation. If you find yourself in extraordinary circumstances that will impact your attendance, please talk with me during student hours or schedule a conversation. When you must miss class, it is your responsibility to find out what you missed, get updates on upcoming assignments, and/or ensure that you are prepared for future classes. As always, keep in mind the COVID Caveat and keep lines of communication open.
 
 For as many absences as allotted in your grade contract, you will be exempted from the class preparation assignment. If you miss more classes than agreed, we may need to reevaluate your contract.
 
-### "Information Overload" Day
+#### "Information Overload" Day
 
 I do understand that the semester can get hectic. The reading load for this class is often challenging, and you must balance it with work in your other classes or a job. This semester will be especially challenging as you negotiate family, friend, and roommate situations amidst a pandemic. Most likely you will have days when you simply cannot—for whatever reason—complete the assigned reading. Please do not simply skip class, compounding your stresses, when this happens. Instead, you may take _“information overload” (IO) days_ during the semester up to the number specified in your grade contract. On these days you will not be expected to contribute to class discussion and you will receive a pass on class preparation. In order to take an IO day, you must follow these rules:
 
