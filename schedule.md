@@ -120,7 +120,7 @@ Book Lab: Making zines. Make sure to order your [zine kit](colophonbookarts.com/
 
 -----
 
-## Week 5 &#10087; E-lit I
+## Week 5 &#10087; E-lit
 
 ### Wednesday, October 7 (R,S)
  
