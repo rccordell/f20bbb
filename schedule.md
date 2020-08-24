@@ -74,7 +74,9 @@ Prep:
 + Amaranth Borsuk, "The Book as Content" and "The Book as Object" from *The Book* (2018)
 + (Watch) Allie Alvis, ["Volvelles: Movable Book Machines!"](https://www.youtube.com/watch?v=cdgFxuw5I8M) (2020)
 
-### Friday, September 11 (R,A)
+### Thursday, September 17: Course Grading Contracts DUE
+
+### Friday, September 18 (R,A)
 
 Book Lab 2: Watch "Preparing to Print" video (forthcoming) and complete the associated lab activity in preparation for visiting the studio next week.
 
