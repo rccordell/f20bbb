@@ -33,9 +33,9 @@ Studio sessions are intended to give you time to experiment with the book techno
 
 ## A Key to the Schedule
 
-Following each day on the schedule are two letters in parentheses, which indicate our primary modalities for that day. The first letter indicates the class' location, physical or virtual; the second indicates its temporal dimensions. _Side note: teaching in these strange times is oddly philosophical._ Here's a full rundown:
+Following each day on the schedule are two letters in parentheses, which indicate our primary modalities for that day. The first letter indicates the class' location, physical or virtual; the second indicates its temporal dimensions. As you likely know by now, by default NUFlex courses are expected to be synchronous and allow students to join in-person or remotely, but there will be some variation in this course. Here's a full rundown:
 
-+ **R** = **Remote**. We will meet remotely, likely through zoom, or complete an activity remotely.
++ **R** = **Remote**. I will join the class remotely, likely through Zoom, or we will  complete an activity remotely. If you are on campus, you should be able to join these classes from our NUFlex-enabled classroom.
 + **I** = **In-person**. If public health allows, students will have the option to meet in-person to complete an activity on campus. We will reserve these moments for high-impact course activities and we must be prepared to shift online if public health guidance changes. 
 + **I/R** = **In-person/Remote**. Technically all in-person activities could be designated I/R, as students always have the option to join remotely under NUFlex. However, the I/R designation will appear on studio sessions, as each studio group can choose to meet together on campus—while following safety guidelines—or to meet remotely. 
 + **S** = **Synchronous**. We will meet together during our regularly-scheduled course time.
@@ -245,11 +245,11 @@ Studio groups
 
 -----
 
-THANKSGIVING BREAK
+## Week 12 &#10087; THANKSGIVING BREAK
 
 -----
 
-## Week 13 &#10087; Final project presentations
+## Week 13+ &#10087; Final project presentations
 
 ### Wednesday, December 2 (I/R,A)
 
