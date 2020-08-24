@@ -149,7 +149,7 @@ Prep:
 
 ### Friday, October 16 (R,S/A)
 
-Book lab: altered books
+Book lab: Artists' books
 
 -----
 
