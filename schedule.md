@@ -90,13 +90,13 @@ Prep:
 
 + (Watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2008) 
 	+ *Note: This video is about 1 hour long; plan accordingly!*
-+ Ellen Lupton, "Letter" and "Text" from [*Thinking With Type*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9502618350001401?auth=SAML) (2010)
++ Ellen Lupton, "Letter" and "Text" from *Thinking With Type* (2010)
 + Lindsay Lynch, ["How I Came to Love the En Space"](http://www.theatlantic.com/technology/archive/2016/09/how-i-came-to-love-the-en-space/499337/) (2016)
 + (watch) Allie Alvis, ["Myth Busting Metal Type"](https://www.youtube.com/watch?v=oBZF4dpnCLI) (2020)
 
 ### Friday, September 25 (I,A)
 
-Book Lab: tiny-group activity at [Huskiana Letterpress Studio](https://web.northeastern.edu/huskiana/) (sign-up sheet forthcoming). Please note:
+Book Lab: tiny-group activity at [Huskiana Letterpress Studio](https://web.northeastern.edu/huskiana/) (see [sign-up sheet here](https://docs.google.com/spreadsheets/d/17QxSFyyknpoVT1w8hdItDjTg9BcBc83IPj6FHadptME/edit?usp=sharing)). Please note:
 
 + You must complete last week's remote "Preparing to Print" activity prior to arriving in order to minimize close contact while you are in studio. 
 + You must wear a mask to the studio. 
