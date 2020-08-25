@@ -16,7 +16,7 @@ Really, all I _want_ to write here can be found in Sonya Huber's [Shadow Syllabu
 *   Location: mostly Zoom, with some on-site activities if public health allows
 *   Professor: [Ryan Cordell](http://ryancordell.org)
 *   Professor Email: [r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu)
-*   Student Hours: Available for virtual discussions (text or Zoom) Tuesdays and Fridays 2-3pm, and by appointment most other days.
+*   Student Hours: Available for virtual discussions (text, voice, or video) via Discord on Tuesdays and Fridays 2-3pm, and by appointment most other days.
 
 -----
 
@@ -33,7 +33,7 @@ You will need to order supplies for some of our book labs, however, either to co
 
 ## Communication
 
-The best way to get in touch with me is to drop by (virtually) during student hours, or to schedule a check-in. If you’re unsure about our readings, struggling with an assignment, or just want to talk, please schedule a call. Just [email me](mailto:r.cordell@northeastern.edu) with **at least three possible meeting times** for me to choose among.
+The best way to get in touch with me is to drop by (virtually) during student hours, or to schedule a check-in. If you’re unsure about our readings, struggling with an assignment, or just want to talk, please schedule a call. You can drop me a note via Discord to see if I'm around, and if not just [email me](mailto:r.cordell@northeastern.edu) with **at least three possible meeting times** for me to choose among.
 
 -----
 
@@ -62,9 +62,7 @@ Maintaining an active class conversation requires that the class be present, bot
 1.  Be awake and attentive to the conversation of the day;
 2.  Prepare assigned texts before class begins;
 3.  Have our assigned texts at the ready.
-4.  Join activities and contribute to discussion, whether vocally or through the chat.
-
-If you fail to meet these requirements, I will consider you mentally absent, though you may be physically present.
+4.  Join activities and contribute to discussion, whether vocally or through chat.
 
 #### Missing Class
 
@@ -82,6 +80,10 @@ I do understand that the semester can get hectic. The reading load for this clas
 4.  You may not take an IO day to avoid completing a major assignment. If you are unsure whether an assignment is "major," the syllabus is a good guide. If a particular assignment has its own "assignment" page on the course website, it is a major assignment.
 
 IO days are intended to help you manage the inevitable stresses of your individual semester. Use them wisely.
+
+### Studio Sessions
+
+Studio sessions are intended to give you time to experiment with the book technologies introduced throughout the semester, make substantive progress toward your final project, and get sustained feedback from your peers. Studio group meetings should happen in real-time—whether remote or in-person—and are not optional. Groups may decide to use weeks differently, perhaps simply working in proximity one week while sharing their progress another. Perhaps a group would decide to ask one member to share progress each week for part of their meeting time while devoting the rest to sustained project work. You should use this time as best supports your projects' development, but you should make use of this time, even given the strangeness of studio during a pandemic. Each studio group should document their meetings—short bullets are fine—in a format that I can access regularly. For example, a group might choose to meet through a channel in our class Discord (or use one to take notes during a meeting) which would provide a rough outline of what was said and done in a given meeting.
 
 -----
 
