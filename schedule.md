@@ -53,14 +53,13 @@ So, by way of example, the designation **R,S** would mean, **remote synchronous*
 Prep:
 
 + Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
++ Browse [Kit Davey's Instagram](https://www.instagram.com/daveykit/?hl=en)
 
 ### Friday, September 11 (R,S)
 
-Prep:
+**Guest Lecturer: Molly Brown, Reference and Outreach Archivist, Northeastern University Libraries**
 
-+ Leah Price, "Introduction" and "Reading Over Shoulders" from *What We Talk About When We Talk About Books* (2019)
-+ (Watch) Allie Alvis, ["Volvelles: Movable Book Machines!"](https://www.youtube.com/watch?v=cdgFxuw5I8M) (2020)
-+ Browse [Kit Davey's Instagram](https://www.instagram.com/daveykit/?hl=en)
+Book Lab 1: Virtual visit, Northeastern University Archives and Special Collections
 
 -----
 
@@ -71,14 +70,13 @@ Prep:
 Prep: 
 
 + Amaranth Borsuk, "The Book as Content" and "The Book as Object" from *The Book* (2018)
++ (Watch) Allie Alvis, ["Volvelles: Movable Book Machines!"](https://www.youtube.com/watch?v=cdgFxuw5I8M) (2020)
 
 ### Thursday, September 17: Course Grading Contracts DUE
 
-### Friday, September 18 (R,S)
+### Friday, September 18 (R,A)
 
-**Guest Lecturer: Molly Brown, Reference and Outreach Archivist, Northeastern University Libraries**
-
-Book Lab 1: Virtual visit, Northeastern University Archives and Special Collections
+Book Lab 2: Preparing to Print
 
 -----
 
@@ -96,9 +94,9 @@ Prep:
 
 ### Friday, September 25 (I,A)
 
-Book Lab 2: tiny-group activity at [Huskiana Letterpress Studio](https://web.northeastern.edu/huskiana/) (see [sign-up sheet here](https://docs.google.com/spreadsheets/d/17QxSFyyknpoVT1w8hdItDjTg9BcBc83IPj6FHadptME/edit?usp=sharing)). Please note:
+Book Lab 3: tiny-group activity at [Huskiana Letterpress Studio](https://web.northeastern.edu/huskiana/) (see [sign-up sheet here](https://docs.google.com/spreadsheets/d/17QxSFyyknpoVT1w8hdItDjTg9BcBc83IPj6FHadptME/edit?usp=sharing)). Please note:
 
-+ You must watch the "Preparing to Print" video prior to arriving for your appointment in order to minimize close contact while you are in studio. 
++ You must complete Book Lab 2, "Preparing to Print," prior to arriving for your appointment in order to minimize close contact while you are in studio. 
 + You must wear a mask to the studio. 
 + Sanitizer will be provided at the entrance, as will gloves, which must be worn throughout the workshop.  
 
@@ -118,7 +116,7 @@ Prep:
 
 ### Friday, October 2 (R,S)
 
-Book Lab 3: Making zines. Make sure to order your [zine kit](colophonbookarts.com/instructors-students/cordell-zine) well in advance!
+Book Lab 4: Making zines. Make sure to order your [zine kit](colophonbookarts.com/instructors-students/cordell-zine) well in advance!
 
 -----
 
@@ -134,7 +132,7 @@ Prep:
 
 ### Friday, October 9 (R,S/A)
 
-Book Lab 4: Twine
+Book Lab 5: Twine
 
 ----
 
@@ -149,9 +147,9 @@ Prep:
 + Amaranth Borsuk, "The Book as Idea" from *The Book* (2018)
 + (browse) Sarah Matthews, [I Am Sarah Matthews. Artist.](https://www.iamsarahmatthews.com/)
 
-### Friday, October 16 (R,S/A)
+### Friday, October 16 (R,S)
 
-Book lab 5: Artists' books
+Book lab 6: Artists' books
 
 -----
 
@@ -173,7 +171,7 @@ Prep:
 
 ### Friday, October 23 (I,S)
 
-Book Lab 6: A pamphlet-stitch binding. Make sure you've ordered your [book-binding supplies](https://www.colophonbookarts.com/instructors-students/cordell-class-kit) ahead of time so you can bring them to the session.
+Book Lab 7: A pamphlet-stitch binding. Make sure you've ordered your [book-binding supplies](https://www.colophonbookarts.com/instructors-students/cordell-class-kit) ahead of time so you can bring them to the session.
 
 -----
 

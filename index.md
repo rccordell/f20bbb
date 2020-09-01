@@ -7,8 +7,8 @@ bigimg: /img/5713183928_a6b06c65e6_o.jpg
 
 ## Course Metadata
 
-Course Number: HONR 3310
-Meeting Room: TBD  
+Course Number: HONR 3310  
+Meeting Room: Mostly Zoom; occasionally Hastings Suite 205   
 Days & Time: Wednesday and Friday, 11:45am-1:25pm
 Professor: [Ryan Cordell](mailto:r.cordell@northeastern.edu)  
 Fall Student Hours: Tuesday and Friday 2-3pm, and by appointment
